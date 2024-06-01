@@ -1,2 +1,15 @@
-# Game-of-life
-This is an implementation of John Conway's Game of Life using Python.
+#Game of Life 
+
+An Implementation of John Conwayg Game of Life in Python 
+
+##How to Run 
+
+1.Clone the repository 
+2.Install and use a virtual environment 
+3.Install the dependencies 
+4.Run the game_of_life. py script 
+
+##Dependencies 
+
+-numpy 
+-matplotlib 
