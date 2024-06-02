@@ -1,6 +1,7 @@
 # Game of Life 
 
 An Implementation of John Conwayg Game of Life in Python  
+
 ![Example GIF](output.gif)
 
 
