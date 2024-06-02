@@ -1,6 +1,6 @@
 # Game of Life 
 
-An Implementation of John Conwayg Game of Life in Python  
+An Implementation of John Conway's Game of Life in Python  
 
 ![Example GIF](output.gif)
 
@@ -15,4 +15,7 @@ An Implementation of John Conwayg Game of Life in Python
 ## Dependencies 
 
 - numpy 
-- matplotlib 
+- matplotlib
+
+## Alternatively install from req.txt by running 
+`pip install -r requirements.txt`
